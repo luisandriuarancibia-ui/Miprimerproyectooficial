@@ -68,8 +68,6 @@ El sitio incluye las siguientes secciones principales:
   <img src="Imagen de WhatsApp 2025-10-11 a las 10.06.42_b55af622.jpg" alt="Equipo de desarrollo del Kiosko Escolar" width="400">
 </p>
 
-*(Coloca tu imagen en la carpeta `img/` del proyecto con el nombre `equipo-kiosko.jpg` o cambia el nombre en el código de arriba)*
-
 ---
 
 💡 **Propósito del proyecto**
