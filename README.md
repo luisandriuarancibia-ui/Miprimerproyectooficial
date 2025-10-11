@@ -58,7 +58,7 @@ El sitio incluye las siguientes secciones principales:
 
 **Product Owner:** Fabiana Tolave Mercado  
 **Scrum Master:** Luis Andriu Arancibia Justiniano  
-**Desarrollador:** Noel Antony Quiroga Hurtado  
+**Desarrollador:** Noel Antony Quiroga Hurtado y Deiby Yoel Huarachi Yarhui
 
 ---
 
