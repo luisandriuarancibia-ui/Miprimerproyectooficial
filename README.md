@@ -5,7 +5,7 @@ El proyecto fue realizado aplicando la **metodología ágil Scrum**, fomentando 
 ---
 
 🌐 **URL pública**  
-👉 [https://github.com/luisandriuarancibia-ui/Miprimerproyectooficial](https://github.com/luisandriuarancibia-ui/Miprimerproyectooficial)
+👉 [https://github.com/luisandriuarancibia-ui/Miprimerproyectooficial]https://luisandriuarancibia-ui.github.io/Miprimerproyectooficial/
 
 ---
 
